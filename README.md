@@ -1,2 +1,2 @@
-# 2-VEB-sayt
+# 2-WEB-sayt
 CRUD
